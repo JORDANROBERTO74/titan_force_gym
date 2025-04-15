@@ -1,12 +1,12 @@
 #### English version
 
-<div align="center"><strong>Titan Forge Gym - Gym website</strong></div>
+<div align="center"><strong>Titan Force Gym - Gym website</strong></div>
 <div align="center">Built with the Next.js 13 App Router</div>
 <br />
 
 ## Description
 
-Titan Forge Gym is a personal project developed as part of my portfolio. It is a fitness center website designed to showcase my web development skills using modern technologies.
+Titan Force Gym is a personal project developed as part of my portfolio. It is a fitness center website designed to showcase my web development skills using modern technologies.
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ You can see the project in action on [Vercel](https://titan-forge-gym.vercel.app
 
 If you would like to learn more about my work or collaborate on future projects, feel free to contact me at jordanroberto74@gmail.com.
 
-Thank you for visiting Titan Forge Gym!
+Thank you for visiting Titan Force Gym!
 
 <br />
 
@@ -38,13 +38,13 @@ Thank you for visiting Titan Forge Gym!
 
 #### Versión en español
 
-<div align="center"><strong>Titan Forge Gym - Sitio web del gimnasio</strong></div>
+<div align="center"><strong>Titan Force Gym - Sitio web del gimnasio</strong></div>
 <div align="center">Construido con el enrutador de aplicaciones Next.js 13</div>
 <br />
 
 ## Descripción
 
-Titan Forge Gym es un proyecto personal desarrollado como parte de mi portafolio. Es un sitio web para un centro de fitness diseñado para demostrar mis habilidades en desarrollo web con tecnologías modernas.
+Titan Force Gym es un proyecto personal desarrollado como parte de mi portafolio. Es un sitio web para un centro de fitness diseñado para demostrar mis habilidades en desarrollo web con tecnologías modernas.
 
 ## Tecnologías Utilizadas
 
@@ -66,4 +66,4 @@ Puedes ver el proyecto en funcionamiento en [Vercel](https://titan-forge-gym.ver
 
 Si deseas conocer más sobre mi trabajo o colaborar en futuros proyectos, puedes contactarme en jordanroberto74@gmail.com.
 
-¡Gracias por visitar Titan Forge Gym!
+¡Gracias por visitar Titan Force Gym!
